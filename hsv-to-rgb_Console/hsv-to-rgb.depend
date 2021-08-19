@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629405125 source:d:\07_programmieren\c\multithreading\hsv-to-rgb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdint.h>
+
